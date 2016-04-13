@@ -1,7 +1,7 @@
 # The-First
 #include  <stdio.h>
   int  main(){
-    int  number = 100;
-    printf("%c", number);
+    int  number = 505;
+    printf("%d", number);
   return  0;
   }
